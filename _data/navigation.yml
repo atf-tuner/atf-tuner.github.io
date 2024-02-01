@@ -1,0 +1,13 @@
+main:
+  - title: "Overview"
+    url: /#overview
+  - title: "Getting Started"
+    url: /#getting-started
+  - title: "Code Examples"
+    url: /#code-examples
+  - title: "Publications"
+    url: /#publications
+  - title: "Citations"
+    url: /#citations
+  - title: "Contact"
+    url: /#contact
