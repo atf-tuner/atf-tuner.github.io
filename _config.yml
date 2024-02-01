@@ -23,7 +23,7 @@ name                     :
 description              : 
 domain                   : "atf-tuner.github.io"  # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url                      : "https://atf-tuner.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/personal-website/"  # the subpath of your site, e.g. "/blog"
+baseurl                  : ""  # the subpath of your site, e.g. "/blog"
 repository               : "atf-tuner/atf-tuner.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/atf_logo.png"
