@@ -370,3 +370,7 @@ Please use the following citation, when referring to ATF's:
     </div>
   </div>
 </div>
+
+<br>
+
+You can also find us on <a href="https://discord.gg/kVRZRyUDQY"><img src="assets/images/discord-logo.svg" alt="Discord" style="height: 20px"> Discord</a>.
