@@ -35,7 +35,7 @@ For wide applicability, ATF is designed as generic in:
 <br>
 # Getting Started
 
-ATF is open source on [GitHub](https://github.com), with both of its interface kinds, under a *commercially permissive MIT license*:
+ATF is open source on [GitHub](https://github.com/atf-tuner/), with both of its interface kinds, under a *commercially permissive MIT license*:
 
   1. [pyATF](https://github.com/atf-tuner/pyATF) -- ATF with its Python-based user interface
   2. [cppATF](https://github.com/atf-tuner/cppATF) -- ATF with its C++-based user interface
