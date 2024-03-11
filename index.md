@@ -40,7 +40,7 @@ ATF is open source on [GitHub](https://github.com/atf-tuner/), with both of its 
   1. [pyATF](https://github.com/atf-tuner/pyATF) -- ATF with its Python-based user interface
   2. [cppATF](https://github.com/atf-tuner/cppATF) -- ATF with its C++-based user interface
 
-We encourage you to use ATF in other projects, open source or commercial.
+We encourage you to use ATF in other projects, open source, or commercial.
 
 <br>
 # Code Examples
