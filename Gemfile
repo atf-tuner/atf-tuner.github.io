@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-# gem "jekyll", "~> 3.7"
-gem "github-pages", "~> 228", group: :jekyll_plugins
+gem "jekyll", "~> 3.9.5"
+gem "github-pages", "~> 231", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 gem "kramdown-parser-gfm"
 gem "webrick", "~> 1.8"
