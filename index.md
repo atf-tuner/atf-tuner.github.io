@@ -260,19 +260,24 @@ int main()
 <br>
 # Publications
 
-1.  A. Rasch, R. Schulze, M. Steuwer, S. Gorlatch \\
+1.  R.Schulze, S. Gorlatch, A. Rasch \\
+    [pyATF: Constraint-Based Auto-Tuning in Python](https://conf.researchr.org/home/CC-2025) \\
+    *ACM SIGPLAN International Conference on Compiler Construction (CC 2025)*\\
+    <a href="assets/files/paper/cc25/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](assets/files/paper/cc25/paper.pdf)
+   
+3.  A. Rasch, R. Schulze, M. Steuwer, S. Gorlatch \\
     [Efficient Auto-Tuning of Parallel Programs With Interdependent Tuning Parameters via Auto-Tuning Framework (ATF)](https://dl.acm.org/doi/abs/10.1145/3427093) \\
     *ACM Transactions on Architecture and Code Optimization (TACO 2021), (original work, presented at HiPEAC'21 conference)*\\
     <a href="assets/files/paper/taco21/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](assets/files/paper/taco21/paper.pdf)
     <a href="assets/files/paper/taco21/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em; padding-left: 1em"></i></a> [Slides](assets/files/paper/taco21/slides.pdf)
     <a href="https://www.youtube.com/watch?v=PRUbf1R-lZ0"><i class="fas fa-video" style="color: red; font-size: 2em; padding-top: .4em; padding-left: 1em"></i></a> [Talk](https://www.youtube.com/watch?v=PRUbf1R-lZ0)
 
-2.  A. Rasch, S. Gorlatch \\
+4.  A. Rasch, S. Gorlatch \\
     [ATF: A Generic, Directive-Based Auto-Tuning Framework](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4423) \\
     *Concurrency and Computation: Practice and Experience (CCPE 2018)*\\
     <a href="assets/files/paper/ccpe18/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](assets/files/paper/ccpe18/paper.pdf)
 
-3.  A. Rasch, M. Haidl, S. Gorlatch \\
+5.  A. Rasch, M. Haidl, S. Gorlatch \\
     [ATF: A Generic Auto-Tuning Framework](https://ieeexplore.ieee.org/document/8291912) \\
     *IEEE International Conference on High Performance Computing and Communications (HPCC 2017)*\\
     <a href="assets/files/paper/hpcc17/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](assets/files/paper/hpcc17/paper.pdf)
