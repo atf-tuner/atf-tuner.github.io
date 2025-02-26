@@ -261,7 +261,7 @@ int main()
 # Publications
 
 1.  R.Schulze, S. Gorlatch, A. Rasch \\
-    [pyATF: Constraint-Based Auto-Tuning in Python](https://conf.researchr.org/home/CC-2025) \\
+    [pyATF: Constraint-Based Auto-Tuning in Python](https://dl.acm.org/doi/10.1145/3708493.3712682) \\
     *ACM SIGPLAN International Conference on Compiler Construction (CC 2025)*\\
     <a href="assets/files/paper/cc25/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](assets/files/paper/cc25/paper.pdf)
    
@@ -318,7 +318,7 @@ Please use the following citation, when referring to ATF's:
 }
 ~~~
 
-2. DSL-Based User Interface
+2. *DSL-Based* User Interface
 ~~~
 @article{https://doi.org/10.1002/cpe.4423,
   author = {Rasch, Ari and Gorlatch, Sergei},
@@ -336,19 +336,41 @@ Please use the following citation, when referring to ATF's:
 }
 ~~~
 
-3. GPL-Based C++ User Interface
-~~~
-@INPROCEEDINGS{8291912,
-  author={Rasch, Ari and Haidl, Michael and Gorlatch, Sergei},
-  booktitle={2017 IEEE 19th International Conference on High Performance Computing and Communications; IEEE 15th International Conference on Smart City; IEEE 3rd International Conference on Data Science and Systems (HPCC/SmartCity/DSS)},
-  title={ATF: A Generic Auto-Tuning Framework},
-  year={2017},
-  volume={},
-  number={},
-  pages={64-71},
-  doi={10.1109/HPCC-SmartCity-DSS.2017.9}
-}
-~~~
+3. *GPL-Based* Interfaces:
+   
+   1. *Python*-Based User Interface
+  ~~~
+  @inproceedings{10.1145/3708493.3712682, 
+    author = {Schulze, Richard and Gorlatch, Sergei and Rasch, Ari}, 
+    title = {pyATF: Constraint-Based Auto-Tuning in Python}, 
+    year = {2025}, 
+    isbn = {9798400714078}, 
+    publisher = {Association for Computing Machinery}, 
+    address = {New York, NY, USA}, 
+    url = {https://doi.org/10.1145/3708493.3712682}, 
+    doi = {10.1145/3708493.3712682},
+    booktitle = {Proceedings of the 34th ACM SIGPLAN International Conference on Compiler Construction}, 
+    pages = {35–47}, 
+    numpages = {13}, 
+    keywords = {CUDA, OpenCL, auto-tuning, constraints}, 
+    location = {Las Vegas, NV, USA}, 
+    series = {CC '25} 
+  }
+  ~~~
+
+  2. *C++*-Based User Interface
+  ~~~
+  @INPROCEEDINGS{8291912,
+    author={Rasch, Ari and Haidl, Michael and Gorlatch, Sergei},
+    booktitle={2017 IEEE 19th International Conference on High Performance Computing and Communications; IEEE 15th International Conference on Smart City; IEEE 3rd International Conference on Data Science and Systems (HPCC/SmartCity/DSS)},
+    title={ATF: A Generic Auto-Tuning Framework},
+    year={2017},
+    volume={},
+    number={},
+    pages={64-71},
+    doi={10.1109/HPCC-SmartCity-DSS.2017.9}
+  }
+  ~~~
 
 <br>
 # Contact
