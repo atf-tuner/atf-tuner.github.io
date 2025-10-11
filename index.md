@@ -283,7 +283,7 @@ int main()
     <a href="assets/files/paper/hpcc17/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](assets/files/paper/hpcc17/paper.pdf)
     <a href="assets/files/paper/hpcc17/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em; padding-left: 1em"></i></a> [Slides](assets/files/paper/hpcc17/slides.pdf)
 
-### WIP/Short Papers & Talks
+### Talks
 
 1.  A. Rasch, R. Schulze \\
     [Auto-Tuning Framework (ATF)](https://www.lorentzcenter.nl/generic-autotuning-technology-for-gpu-applications.html) \\
