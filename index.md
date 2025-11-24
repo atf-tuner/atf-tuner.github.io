@@ -267,7 +267,7 @@ int main()
    
 3.  A. Rasch, R. Schulze, M. Steuwer, S. Gorlatch \\
     [Efficient Auto-Tuning of Parallel Programs With Interdependent Tuning Parameters via Auto-Tuning Framework (ATF)](https://dl.acm.org/doi/abs/10.1145/3427093) \\
-    *ACM Transactions on Architecture and Code Optimization (TACO 2021), (original work, presented at HiPEAC'21 conference)*\\
+    *ACM Transactions on Architecture and Code Optimization (TACO 2021) -- Presented at HiPEAC'21 conference*\\
     <a href="assets/files/paper/taco21/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](assets/files/paper/taco21/paper.pdf)
     <a href="assets/files/paper/taco21/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em; padding-left: 1em"></i></a> [Slides](assets/files/paper/taco21/slides.pdf)
     <a href="https://www.youtube.com/watch?v=PRUbf1R-lZ0"><i class="fas fa-video" style="color: red; font-size: 2em; padding-top: .4em; padding-left: 1em"></i></a> [Talk](https://www.youtube.com/watch?v=PRUbf1R-lZ0)
