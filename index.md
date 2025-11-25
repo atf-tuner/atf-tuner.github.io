@@ -258,7 +258,7 @@ int main()
 </div>
 
 <br>
-# Publications
+# Selected Publications
 
 1.  R.Schulze, S. Gorlatch, A. Rasch \\
     [pyATF: Constraint-Based Auto-Tuning in Python](https://dl.acm.org/doi/10.1145/3708493.3712682) \\
